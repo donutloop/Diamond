@@ -23,7 +23,10 @@ then execute the following:
     qmake
     make
 
-Debian (armv6l, armv7l)
+Debian (armv6l)
+
+- armv7l not supported
+
 -------
 
 First, make sure that the required packages for Qt5 development of your
